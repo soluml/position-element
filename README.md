@@ -1,4 +1,4 @@
-position-element
-================
-
-A new position property value that allows relative positioning for any element to any element
+# Position: Element
+A new value for the CSS property 'position' that allows relative positioning for any element to any element.
+* Authors: Benjamin Solum
+* License: MIT
